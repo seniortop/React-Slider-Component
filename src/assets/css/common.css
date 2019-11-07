@@ -1,0 +1,8 @@
+@font-face{
+    font-family: proxima-nova-soft;
+    src: url(../fonts/proxima-nova-soft-regular-webfont.woff);
+}
+
+body{
+    font-family: proxima-nova-soft;
+}
